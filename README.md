@@ -1,2 +1,2 @@
 # INFO102
-Hello 
+Hello. I like frogs. 
